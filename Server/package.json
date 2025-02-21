@@ -8,7 +8,7 @@
     "start": "npm run build && node dist/index.js",
     "dev": "nodemon --exec babel-node ./src/index.js"
   },
-  "author": "ShivaKanchi",
+  "author": "SumanthKoppula",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1259.0",
