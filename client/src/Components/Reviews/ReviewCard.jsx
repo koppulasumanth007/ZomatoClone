@@ -5,7 +5,7 @@ import relativeTime from "dayjs/plugin/relativeTime";
 dayjs.extend(relativeTime);
 
 const ReviewCard = (props) => {
-    const [user] = useState("ShivaKanchi");
+    const [user] = useState("SumanthKoppula");
 
     return (
         <div className="my-3 flex flex-col gap-3 pb-4 border-b border-gray-300">
@@ -21,7 +21,7 @@ const ReviewCard = (props) => {
                     <div className="flex flex-col">
                         <h3 className="text-lg font-semibold">{user}</h3>
                         <small className="text-gray-500">
-                            5 Reviews &#8226; 3 Followers
+                            5 Reviews &#8226; 7 Followers
                         </small>
                     </div>
                 </div>
