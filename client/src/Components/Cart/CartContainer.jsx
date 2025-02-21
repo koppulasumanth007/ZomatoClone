@@ -87,7 +87,7 @@ export default CartContainer
 // {
 //     image:
 //         "https://b.zmtcdn.com/data/dish_photos/077/28e7baadea310b7b337fd2fb3f653077.jpg",
-//     name: "Amritsari Fish Tikka",
+//     name: "Hyderabadi Fish Tikka",
 //     rating: 5,
 //     price: 250,
 //     quantity: 1,
@@ -109,7 +109,7 @@ export default CartContainer
 // {
 //     image:
 //         "https://b.zmtcdn.com/data/dish_photos/077/28e7baadea310b7b337fd2fb3f653077.jpg",
-//     name: "Amritsari Fish Tikka",
+//     name: "Hyderabadi Fish Tikka",
 //     rating: 5,
 //     price: 250,
 //     quantity: 1,
