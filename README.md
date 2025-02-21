@@ -1,5 +1,5 @@
-# Zomato Clone
-Hello All this is my first MERN project
+# ZomatoClone
+Hello All, I'am Sumanth Koppula this is my first MERN project
 
 
 Its a Clone of Zomato Web page a online food delivery website.
@@ -7,10 +7,7 @@ This website has functionlity of signup and signin is user, user can visit diffe
 User can also givew reviews to a restaurant and also order foods and which is dynamic and automatically callculate the orders and redirects to a payment gateway.
 This Data manipulation and usage is done through MongoDb.
 
-
-## Backend Api:
-https://zomato-clone-shiva.onrender.com/
-## Tech Stack
+## Technology
 
 **Client:** 
 React, 
